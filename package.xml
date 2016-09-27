@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>cv_detection</name>
-  <version>0.0.1</version>
+  <version>0.0.2</version>
   <description>A package for UAV detection</description>
 
   <maintainer email="t.j.hu@nudt.edu.cn">Tianjiang Hu</maintainer>
